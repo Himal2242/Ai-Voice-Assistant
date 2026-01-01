@@ -1,13 +1,26 @@
 # 🎙️ AI Voice Assistant  
 🚧 **WORK IN PROGRESS — ACTIVE DEVELOPMENT** 
 
-<img width="1918" height="947" alt="Ai_Assistant" src="https://github.com/user-attachments/assets/fef3cdae-16ac-41cf-8dc3-b31e7c8796fa" />
+<p align="center">
+  <a href="https://meek-jalebi-225f5c.netlify.app/" target="_blank">
+    🔴 <b>LIVE DEMO</b> — Click to Experience the System
+  </a>
+</p>
 
+<p align="center">
+  <sub>
+    https://meek-jalebi-225f5c.netlify.app/  
+    (<i>backup URL</i>)
+  </sub>
+</p>
+
+<img width="1918" height="947" alt="Ai_Assistant" src="https://github.com/user-attachments/assets/fef3cdae-16ac-41cf-8dc3-b31e7c8796fa" />
 
 > A real-time, cross-platform **AI Voice Assistant platform** built with  
 > **LiveKit · React (Vite + Tailwind) · Python Voice Agents**
 
 This repository represents a **live system under active engineering**, not a static demo.
+
 
 ---
 
